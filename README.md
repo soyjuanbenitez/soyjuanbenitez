@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Juan Sebastián
-#### a self-taught programmer and technology enthusiast. 
+# Hi there 👋, my name is Juan Sebastián
+## a self-taught programmer and technology enthusiast. 
 ![a self-taught programmer and technology enthusiast. ](https://github.com/soyjuanbenitez/soyjuanbenitez/assets/45110269/3ed59986-6fb5-4044-9c68-50d3fe40b760)
 
 HTML and CSS (JavaScript coming soon).
